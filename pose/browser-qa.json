@@ -1,0 +1,16 @@
+{
+  "tested_utc": "2026-10-30T04:58:00Z",
+  "environment": "Cloud Chrome, local HTTP mirror http://127.0.0.1:8766/offline/index.html",
+  "passed": [
+    "Initial gallery renders styled page and mannequin thumbnails; 288 poses / 1439 images shown",
+    "Normal full-body series filter shows 73 poses / 365 images",
+    "Search P001 shows one pose / five images",
+    "Front-angle thumbnail opens full-size image modal",
+    "Next-angle button changes image, metadata and local original PNG link to high angle",
+    "Full-size high-angle image and five thumbnails visually rendered",
+    "Escape closes modal",
+    "Individual-image view shows five angle cards",
+    "Front-angle filter narrows to one image"
+  ],
+  "limits": "Representative UI checks, not exhaustive every-control/browser compatibility testing. All 2878 asset refs separately verified and fully decoded. External social links deliberately not followed; telemetry disabled offline. No backend source recovered."
+}

@@ -1,0 +1,10 @@
+{
+  "status": "verified",
+  "source_url": "https://ai-pose-gallery.pages.dev/",
+  "verified_files": 2891,
+  "verified_bytes": 696948754,
+  "images": 2878,
+  "missing_or_mismatched": 0,
+  "elapsed_seconds": 16.0,
+  "coverage": "All listed files from the captured public frontend; excludes unknown backend/build/unlinked files."
+}

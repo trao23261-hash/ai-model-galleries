@@ -1,0 +1,18 @@
+[
+  {
+    "source_url": "https://ai-pose-gallery.pages.dev/",
+    "local_path": "original/index.html",
+    "http_status": 200,
+    "bytes": 450474,
+    "sha256": "e5819cd75a46345af73268a31caade348e42818bb8a5df1992249dd7bc54272c",
+    "status": "downloaded"
+  },
+  {
+    "source_url": "https://static.cloudflareinsights.com/beacon.min.js",
+    "local_path": "original/beacon.min.js",
+    "http_status": 200,
+    "bytes": 31853,
+    "sha256": "637381256384554e1cc3309a62fb238a51b83e7f10b2a56d8ba15dbc73ca762e",
+    "status": "downloaded"
+  }
+]

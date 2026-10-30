@@ -1,0 +1,14 @@
+Source URL: https://ai-pose-gallery.pages.dev/
+Retrieved: 2026-10-30 04:28 UTC
+
+Exact prominent notice:
+画像の一括ダウンロード（自動取得を含む）・再配布・転載・販売は禁止です。
+
+Exact expanded precaution:
+このデータベースの画像を一括でダウンロードすること（ツール等による自動取得を含む）と、取得した画像の再配布・転載・販売は禁止です。
+
+Other permission text:
+無償で利用できます（作品制作での商用利用・編集・参考利用OK）。
+生成の参考に1枚ずつ使う分は、これまでどおりご利用いただけます。
+
+Site describes imagery as faceless grey mannequin line drawings, not actual people. No images were downloaded or visually examined. Dataset labels alone do not establish the explicitness of any image. The labels include ordinary standing/sitting poses alongside sexualized and sexual-position terminology. See category-counts.json for exact public labels and counts. Original HTML retained for inspection only.

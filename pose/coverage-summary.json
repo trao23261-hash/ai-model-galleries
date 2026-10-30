@@ -1,0 +1,40 @@
+{
+  "source_url": "https://ai-pose-gallery.pages.dev/",
+  "image_references": 2878,
+  "downloaded_verified": 2878,
+  "missing_or_invalid": 0,
+  "image_bytes": 691586721,
+  "largest_image": {
+    "id": "full_sexy_P070_low",
+    "asset_kind": "original",
+    "source_url": "https://ai-pose-gallery.pages.dev/img/full_sexy_P070_low.png",
+    "source_relative_path": "img/full_sexy_P070_low.png",
+    "local_target_path": "original/img/full_sexy_P070_low.png",
+    "series": "全身1人・セクシー系",
+    "pose_number": "P070",
+    "category": "特殊",
+    "pose_name": "しゃがみ開脚（ヤンキー座り）",
+    "angle": "下から",
+    "status": "downloaded_verified",
+    "http_status": 200,
+    "bytes": 939320,
+    "sha256": "93e95f17cc4e6d871566451ebb7b2e5f00322f791fa756dd84ba4bf9665de8d4",
+    "image_format": "PNG",
+    "width": 900,
+    "height": 1200
+  },
+  "dimensions": {
+    "(900, 1200)": 1439,
+    "(300, 400)": 1439
+  },
+  "coverage": "All 2,878 explicitly enumerated image references from captured homepage; unknown unlisted server files/backend/build source not recoverable via deployed frontend.",
+  "authorization": "User confirmed ownership of source website on 2026-10-30. Source restrictions preserved.",
+  "page_structure": "One HTML page with inline CSS/JS/data. Filter/view/angle states client-side, not additional pages.",
+  "discovery": "robots.txt and sitemap.xml return homepage fallback, not actual robots or sitemap. No other internal page links.",
+  "offline_entry": "offline/index.html",
+  "offline_changes": [
+    "Removed Cloudflare analytics tag in offline copy only.",
+    "Changed image paths to ../original/img and ../original/thumbs; no binary duplication."
+  ],
+  "original_html_sha256": "e5819cd75a46345af73268a31caade348e42818bb8a5df1992249dd7bc54272c"
+}
