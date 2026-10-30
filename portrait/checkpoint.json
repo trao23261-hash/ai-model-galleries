@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "expected_files": 2998,
+  "verified_files": 2998,
+  "downloaded_bytes": 4889964024,
+  "missing_or_invalid": 0,
+  "dimension_metadata_mismatches": 0,
+  "largest_file": {
+    "url": "https://ai-portrait-gallery.pages.dev/img/full/f1a86ea4cc9.png",
+    "path": "img/full/f1a86ea4cc9.png",
+    "status": "downloaded",
+    "id": "f1a86ea4cc9",
+    "kind": "full",
+    "section": "styling",
+    "http_status": 200,
+    "bytes": 6011685,
+    "sha256": "aa4e96a0b3e1597a28767df5fa6f8243c1469462f6f0a777a4e456f1741dd5b3",
+    "format": "PNG",
+    "width": 1597,
+    "height": 2000,
+    "image_validation": "full_decode_passed"
+  },
+  "dimensions": {
+    "(1122, 1402)": 879,
+    "(400, 500)": 879,
+    "(1121, 1403)": 14,
+    "(400, 501)": 614,
+    "(1597, 2000)": 600,
+    "(2000, 1120)": 6,
+    "(400, 224)": 6
+  },
+  "verified_at_utc": "2026-10-30T06:45:52.280479+00:00"
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDDOjw.ttf",
+    "path": "external/fonts/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDDOjw.ttf",
+    "bytes": 293244,
+    "sha256": "14efb9443652199ade5bc6ba8637b4084acce40a58368a3808f84f55667e3e90",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06GnM.ttf",
+    "path": "external/fonts/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06GnM.ttf",
+    "bytes": 290496,
+    "sha256": "1724047c8988ca5155bff667bc48fa52e97d57aabc6b42eebbf986f21a4be20b",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/notoserifjp/v34/xn71YHs72GKoTvER4Gn3b5eMRtWGkp6o7MjQ2bwDOubA.ttf",
+    "path": "external/fonts/xn71YHs72GKoTvER4Gn3b5eMRtWGkp6o7MjQ2bwDOubA.ttf",
+    "bytes": 8004748,
+    "sha256": "534d71cc8ab20064c96d3d4f442b40a1fc27344c14e13e63a4495ae63899e7f9",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/notoserifjp/v34/xn71YHs72GKoTvER4Gn3b5eMRtWGkp6o7MjQ2bzvPebA.ttf",
+    "path": "external/fonts/xn71YHs72GKoTvER4Gn3b5eMRtWGkp6o7MjQ2bzvPebA.ttf",
+    "bytes": 8002976,
+    "sha256": "304c93c9a88d74819fae602eabebb7cff326608f4694fe75a5dc67cc53a8253c",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqodNaWQ.ttf",
+    "path": "external/fonts/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqodNaWQ.ttf",
+    "bytes": 2311968,
+    "sha256": "d4e8a9a774fa516121fc04b8187b56d57139419db49fd86d06c331619f68f03b",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqs9LaWQ.ttf",
+    "path": "external/fonts/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqs9LaWQ.ttf",
+    "bytes": 2325592,
+    "sha256": "6fafdce8f5726736b79b4e6118e7f6b5c5e53e8f24204f63a3ef7fdc15725502",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMYW2drQpDw0GjzrVNFf_valaDBcznOkjs.ttf",
+    "path": "external/fonts/gNMYW2drQpDw0GjzrVNFf_valaDBcznOkjs.ttf",
+    "bytes": 2357792,
+    "sha256": "67f17ccc7a7f5a26f799feb9cf647fe509648f9943ecaadb745615504f9666d4",
+    "status": "downloaded"
+  }
+]

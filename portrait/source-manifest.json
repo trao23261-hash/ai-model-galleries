@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://ai-portrait-gallery.pages.dev/",
+    "path": "index.html",
+    "bytes": 9121,
+    "sha256": "f292be61fd389cd452150160cb487860942d3aec88cef0087a3f3fb193a7971d",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://ai-portrait-gallery.pages.dev/assets/app.js",
+    "path": "assets/app.js",
+    "bytes": 14961,
+    "sha256": "add00236229e8075fa01a3b996f49f06cab28a835aa10b84b4abf19bc0d42460",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://ai-portrait-gallery.pages.dev/assets/style.css",
+    "path": "assets/style.css",
+    "bytes": 19381,
+    "sha256": "f3899a025845057447c7ce7de259f0475adeda2d0b41a4187b49b410247b3dcd",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://ai-portrait-gallery.pages.dev/data/images.js",
+    "path": "data/images.js",
+    "bytes": 456477,
+    "sha256": "1e99bce2a37f9edf24c4683db9251698d588ad9d4026ee3e1b80b8f0fcbc9405",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://ai-portrait-gallery.pages.dev/data/ranking.js",
+    "path": "data/ranking.js",
+    "bytes": 899,
+    "sha256": "28dad6975b142c5f00b07911da8e79fcd75d02af48d6e09e3be352f817eab5f7",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://ai-portrait-gallery.pages.dev/robots.txt",
+    "path": "snapshots/robots.txt",
+    "bytes": 9121,
+    "sha256": "f292be61fd389cd452150160cb487860942d3aec88cef0087a3f3fb193a7971d",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://ai-portrait-gallery.pages.dev/sitemap.xml",
+    "path": "snapshots/sitemap.xml",
+    "bytes": 9121,
+    "sha256": "f292be61fd389cd452150160cb487860942d3aec88cef0087a3f3fb193a7971d",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://ai-portrait-gallery.pages.dev/api/ranking",
+    "path": "snapshots/api_ranking",
+    "bytes": 872,
+    "sha256": "ea46cb5018fd1f1935cba1f7fd58be309bb3b60d78178bc3243063d8fc91ba5d",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500;600&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=Cormorant+Garamond:ital,wght@0,500;1,500&display=swap",
+    "path": "external/fonts/google-fonts.css",
+    "bytes": 1705,
+    "sha256": "aed701c6550bfbc0144b655be77c95df9f0173a48ec4bc9a6a2baf16556a253d",
+    "status": "downloaded",
+    "note": "Google Fonts response can vary by User-Agent; preserved original snapshot"
+  }
+]

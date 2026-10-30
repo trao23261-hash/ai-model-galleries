@@ -1,0 +1,17 @@
+{
+  "tested_utc": "2026-10-30T06:46:00Z",
+  "environment": "Cloud Chrome local HTTP http://127.0.0.1:8767/index-offline.html",
+  "passed": [
+    "Styled homepage and local hero portraits render",
+    "Captured ranking renders Top10",
+    "Face section count 893 and styling count 606",
+    "Gallery image opens full-resolution PNG lightbox",
+    "Next lightbox image and local PNG download link change correctly",
+    "Escape closes lightbox",
+    "Long-hair filter shows 77 records and updates URL hash",
+    "Load more adds final 17 images after first 60",
+    "Styling tab switches count and hair filter counts",
+    "Usage/license rules dialog displays retained notices"
+  ],
+  "limits": "Representative UI testing, not every browser/control. All image files separately fully decoded; source code and asset paths preserved. No private backend recovered."
+}
