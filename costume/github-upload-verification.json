@@ -1,0 +1,8 @@
+{
+  "status": "verified",
+  "verified_files": 4234,
+  "verified_bytes": 1528760002,
+  "missing_or_mismatched": 0,
+  "elapsed_seconds": 243.8,
+  "coverage": "All listed files from captured public frontend; excludes unknown backend/build/unlinked files."
+}

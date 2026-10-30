@@ -1,0 +1,15 @@
+{
+  "catalog_records": 1407,
+  "original_files": 4223,
+  "original_bytes": 1525404602,
+  "image_bytes": 1525033375,
+  "image_counts": {
+    "WEBP": 2814,
+    "PNG": 1407
+  },
+  "max_file_bytes": 1863137,
+  "verification": "All 4221 images full Pillow decode and SHA256 hash; all catalog paths exist",
+  "missing": 0,
+  "robots_sitemap": "Both HTTP 200 SPA homepage fallback, no independent inventories",
+  "duplicates_stored": false
+}

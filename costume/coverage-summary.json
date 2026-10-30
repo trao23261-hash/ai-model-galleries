@@ -1,0 +1,24 @@
+{
+  "source_url": "https://ai-costume-gallery.pages.dev/",
+  "catalog_records": 1407,
+  "image_references": 4221,
+  "verified_offline_references": 4221,
+  "missing": [],
+  "categories": {
+    "春": 215,
+    "夏": 254,
+    "秋": 244,
+    "冬": 253,
+    "ランジェリー": 199,
+    "パーティ": 48,
+    "水着": 54,
+    "セクシー": 140
+  },
+  "offline_entry": "offline/index.html",
+  "offline_changes": [
+    "Image paths point at ../original, no duplicate binaries",
+    "Cloudflare analytics script removed",
+    "Offline-only .morebtn[hidden] CSS repair to hide exhausted paginator; original HTML untouched"
+  ],
+  "coverage": "All 4221 image paths enumerated by one-page public frontend, inline CSS/JS/META/D and linked analytics provenance; robots/sitemap return identical homepage fallback. Category/search/pagination/modal states are client-side. No private backend, build tools or unknown/unlinked server files claimed."
+}

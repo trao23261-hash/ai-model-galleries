@@ -1,0 +1,38 @@
+{
+  "site": "https://ai-costume-gallery.pages.dev/",
+  "inspected_at_utc": "2026-10-30T04:29:35.587978+00:00",
+  "status": "All catalog images downloaded and SHA256/full Pillow decode verified",
+  "homepage_count": 1,
+  "catalog_records": 1407,
+  "referenced_image_files": 4221,
+  "categories": {
+    "春": 215,
+    "夏": 254,
+    "秋": 244,
+    "冬": 253,
+    "ランジェリー": 199,
+    "パーティ": 48,
+    "水着": 54,
+    "セクシー": 140
+  },
+  "image_downloads": 4221,
+  "runtime_tested": true,
+  "pagination": "client-side PAGE=120; single embedded complete D array",
+  "source_layout": "single HTML includes inline CSS, inline app JavaScript, META and D catalog; references local thumbs/*.webp, img/*.webp and png/*.png; external Cloudflare analytics archived for provenance but removed from offline execution",
+  "restriction": "画像の一括ダウンロード（自動取得を含む）・再配布・転載・販売は禁止です。",
+  "restriction_translation": "Bulk image downloads (including automated retrieval), redistribution, reposting and sale are prohibited.",
+  "limits": [
+    "Original backend/source repository unavailable from homepage.",
+    "Website terms prohibit bulk retrieval and redistribution; user explicitly confirmed ownership before resuming.",
+    "Offline mirror and browser QA handled by archive coordinator."
+  ],
+  "download_image_bytes": 1525033375,
+  "homepage_rechecked_utc": "2026-10-30T07:09:03Z",
+  "homepage_unchanged": true,
+  "image_verification": {
+    "expected": 4221,
+    "verified": 4221,
+    "failed": 0
+  },
+  "browser_qa": "browser-qa.json"
+}

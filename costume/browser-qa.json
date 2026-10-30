@@ -1,0 +1,19 @@
+{
+  "tested_utc": "2026-10-30T07:10:15Z",
+  "environment": "Cloud Chrome local HTTP http://127.0.0.1:8768/offline/index.html",
+  "passed": [
+    "Styled gallery renders catalog count 1407 and eight category counts",
+    "Spring category filters to 215 items",
+    "120-at-a-time load-more appends final 95 items and shows 215 cards",
+    "Exact ID search SPR-0001 returns one item; prefix SPR-000 returns nine",
+    "Thumbnail and display WebP render visually",
+    "Modal opens SPR-0001; next changes image/title and original PNG link to SPR-0002",
+    "Escape closes modal",
+    "Nonsense query renders zero-result state",
+    "Clearing search resets to 1407 catalog items and restores load-more",
+    "Original restrictions and usage notes open in information panel",
+    "After offline CSS repair, short search and exhausted pagination no longer show negative-count load-more button; reset restores valid button"
+  ],
+  "offline_only_repair": ".morebtn[hidden]{display:none!important} added to offline HTML because source display CSS overrides native hidden attribute. Original HTML remains exact and retains original defect.",
+  "limits": "Representative desktop browser QA; not exhaustive every-control or mobile testing. Asset hashes/decode/reference coverage verified separately. No unknown backend/build files claimed."
+}

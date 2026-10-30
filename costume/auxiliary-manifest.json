@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://ai-costume-gallery.pages.dev/robots.txt",
+    "path": null,
+    "http_status": "200",
+    "curl_exit": 0,
+    "bytes": 339374,
+    "sha256": "70e58bfb78e3500ca9693d41518675ceac685ba882a8c761ceb02ceda532538b",
+    "result": "SPA fallback identical to index.html; not a robots/sitemap inventory",
+    "same_content_as": "original/index.html"
+  },
+  {
+    "url": "https://ai-costume-gallery.pages.dev/sitemap.xml",
+    "path": null,
+    "http_status": "200",
+    "curl_exit": 0,
+    "bytes": 339374,
+    "sha256": "70e58bfb78e3500ca9693d41518675ceac685ba882a8c761ceb02ceda532538b",
+    "result": "SPA fallback identical to index.html; not a robots/sitemap inventory",
+    "same_content_as": "original/index.html"
+  },
+  {
+    "url": "https://static.cloudflareinsights.com/beacon.min.js",
+    "path": "original/external/static.cloudflareinsights.com/beacon.min.js",
+    "http_status": "200",
+    "curl_exit": 0,
+    "bytes": 31853,
+    "sha256": "637381256384554e1cc3309a62fb238a51b83e7f10b2a56d8ba15dbc73ca762e"
+  }
+]
